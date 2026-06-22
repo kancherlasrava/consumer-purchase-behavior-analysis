@@ -1,12 +1,12 @@
 # Consumer Purchase Behavior Analysis in Retail Fashion
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes consumer purchasing behavior in the retail fashion industry using Microsoft Excel. The dashboard provides insights into customer demographics, purchasing patterns, seasonal trends, payment preferences, shipping methods, discount impact, and customer loyalty.
 
-## 🎯 Objective
+## Objective
 To identify key factors influencing customer purchases and generate actionable business insights through data visualization and dashboard reporting.
 
-## 🛠️ Tools Used
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -14,13 +14,13 @@ To identify key factors influencing customer purchases and generate actionable b
 - Conditional Formatting
 - Dashboard Design
 
-## 📊 Dashboard KPIs
+## Dashboard KPIs
 - Total Revenue: $233,081
 - Total Customers: 3,900
 - Average Purchase Amount: $59.76
 - Average Rating: 3.75
 
-## 📈 Analysis Performed
+## Analysis Performed
 ### Revenue Analysis
 - Revenue by Category
 - Revenue by Season
@@ -36,7 +36,7 @@ To identify key factors influencing customer purchases and generate actionable b
 - Impact of Discounts
 - Review Ratings Distribution
 
-## 🔍 Key Insights
+## Key Insights
 - Clothing category generates the highest revenue among all product categories.
 - Fall season records the highest revenue.
 - Adult customers contribute the largest share of sales.
@@ -44,7 +44,7 @@ To identify key factors influencing customer purchases and generate actionable b
 - Revenue without discounts is higher than revenue with discounts.
 - Purchase frequency patterns provide insights into customer loyalty and retention.
 
-## 📂 Dataset Features
+## Dataset Features
 - Customer ID
 - Age
 - Gender
@@ -65,10 +65,10 @@ To identify key factors influencing customer purchases and generate actionable b
 - Frequency of Purchases
 - Age Group
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 Upload your dashboard screenshot here.
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning
 - Data Analysis
 - Business Analytics
@@ -77,14 +77,14 @@ Upload your dashboard screenshot here.
 - Insight Generation
 - Excel Reporting
 
-## 👩‍💻 Author
+## Author
 **Kancherla Sravani**
 
 MCA Graduate | Data Analyst Aspirant
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: https://www.linkedin.com/in/kancherla-sravani-01a84a32b/
 
-GitHub: Add your GitHub profile link here
+GitHub: https://github.com/kancherlasrava
 
 ---
 Developed as part of Data Analytics learning and portfolio projects.
